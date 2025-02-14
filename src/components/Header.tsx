@@ -10,8 +10,10 @@ function Header(){
         
            
            
-                <div className="Navs max-h-20 px-10.5 py-6 flex content-center items-center justify-between ">
-                    <span className="logo font-semibold">Portfolio</span>
+                <div className="Navs max-h-20 px-10 py-6 flex items-center justify-between">
+
+                    <span className="logo font-semibold ">Portfolio</span>
+
                     <ul className="flex content-center items-center justify-end gap-6" >
                         <li>About</li>
                         <li>Work</li>
