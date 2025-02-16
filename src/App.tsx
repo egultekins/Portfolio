@@ -19,7 +19,7 @@ const App: React.FC = () => {
       <Content/>
       <Skilltable/>
       <WorkTable headtitle="Last Works" Component={ProjectCard} />
-      <WorkTable headtitle="Testimonal" Component={CommentSection}/>
+      <WorkTable headtitle="Testimonal" Component={CommentSection} />
     </Fragment> 
     
   );

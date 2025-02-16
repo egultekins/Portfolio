@@ -2,6 +2,7 @@ import {FC} from 'react';
 
 
 
+
 interface WorkTableprops{
     Component: FC<any>;
     headtitle: string;
@@ -24,7 +25,7 @@ interface WorkTableprops{
                 
                 <Component/>
            
-                
+               
             </div>
 
             
